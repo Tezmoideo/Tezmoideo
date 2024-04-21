@@ -12,7 +12,7 @@ Hi 👋 My name is Joao Pedro Parreira ====================================  Web
 
 
 
-Hallo World,
+Hello World,
 
 I hold a Bachelor's degree in Arts/Design from Portuguese Institut of Arts, where I honed my creativity and developed a strong foundation in various artistic disciplines. I gained proficiency in Adobe software such as Photoshop, Illustrator,After Effects. Additionally, my background in the arts equipped me with a keen eye for aesthetics and usability,. allowing me to design engaging and intuitive user interfaces. History of Art is a passion.
 
