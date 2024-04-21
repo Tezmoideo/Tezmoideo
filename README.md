@@ -24,7 +24,7 @@ My training in web development extends beyond design, encompassing a solid under
 
 My interest in the web development position. With a diverse background in the arts and a recent completion of the DCI course specializing in web development, I am excited about the opportunity to bring my unique skill set and passion for code/visual technology
 
-also, have a strong interest in AI technologies, particularly in their applications within web development.
+Also, have a strong interest in AI technologies, particularly in their applications within web development.
 
 
                   
