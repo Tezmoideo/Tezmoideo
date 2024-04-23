@@ -1,4 +1,4 @@
-Hello World, my name is Joao Pedro Parreira. Web Developer and Illustrator. * 🌍  Portuguese, based in Munich * ✉️  You can contact me at [jsmoerps@gmail.com](mailto:jsmoerps@gmail.com) * 🧠  I'm learning Artificial Intelligence * ⚡  Music and Sun
+Hello World, my name is Joao Pedro Parreira. Fron End Web Developer and Illustrator. * 🌍  Portuguese, based in Munich * ✉️  You can contact me at [jsmoerps@gmail.com](mailto:jsmoerps@gmail.com) * 🧠  I'm learning Artificial Intelligence * ⚡  Music and Sun
 
 ### Skills  
 
@@ -22,7 +22,7 @@ Furthermore, I have some experience and know how with 3D modeling software,as Ci
 .
 My training in web development extends beyond design, encompassing a solid understanding of programming languages such as HTML, CSS, JavaScript, SPA, React.js or MongoDB. I have adquire experience building responsive and dynamic websites, as well as optimizing performance and ensuring cross-browser compatibility.
 
-My interest in the web development position. With a diverse background in the arts and a recent completion of the DCI course specializing in web development, I am excited about the opportunity to bring my unique skill set and passion for code/visual technology
+I am excited about the opportunity to bring my unique skill set and passion for code/visual technology
 
 Also, have a strong interest in AI technologies, particularly in their applications within web development.
 
