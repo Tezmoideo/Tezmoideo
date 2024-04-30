@@ -14,7 +14,7 @@ Hello World, my name is Joao Pedro Parreira. Fron End Web Developer and Illustra
 
 
 
-I hold a Study degree in Arts/Design from Portuguese Institut of Arts, where I honed my creativity and developed a strong foundation in various artistic disciplines. I gained proficiency in Adobe software such as Photoshop, Illustrator,After Effects. Additionally, my background in the arts equipped me with a keen eye for aesthetics and usability,. allowing me to design engaging and intuitive user interfaces. History of Art is a passion.
+I hold a Study degree in Arts/Design from Portuguese Institut of Arts, where I honed my creativity and developed a strong foundation in various artistic disciplines. I gained proficiency in Adobe software such as Photoshop, Illustrator,After Effects. Additionally, my background in the arts equipped me with a keen eye for aesthetics and usability allowing me to design engaging and intuitive user interfaces. History of Art is a passion.
 
 However, recognizing the evolving landscape of technology, I made a conscious decision to transition my career towards web development. This decision led me to pursue a comprehensive training program at DCI, where I acquired in 2023/2024 advanced knowledge and practical experience in web development tools and technologies.
 
