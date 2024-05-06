@@ -1,4 +1,4 @@
-Hello World, my name is Joao Pedro Parreira. Fron End Web Developer and Illustrator. * 🌍  Portuguese, based in Munich * ✉️  You can contact me at [jsmoerps@gmail.com](mailto:jsmoerps@gmail.com) * 🧠  I'm learning Artificial Intelligence * ⚡  Music and Sun
+Hello World, my name is Joao Pedro Parreira. Front End Web Developer and Illustrator. * 🌍  Portuguese, based in Munich * ✉️  You can contact me at [jsmoerps@gmail.com](mailto:jsmoerps@gmail.com) * 🧠  I'm learning Artificial Intelligence * ⚡  Music and Sun
 
 ### Skills  
 
